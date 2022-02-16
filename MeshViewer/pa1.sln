@@ -1,24 +1,3 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31205.134
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pa1", "pa1.vcxproj", "{D7D52267-B034-4A57-B201-9AC0614EDB47}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
-		Release|Win32 = Release|Win32
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D7D52267-B034-4A57-B201-9AC0614EDB47}.Debug|Win32.ActiveCfg = Debug|Win32
-		{D7D52267-B034-4A57-B201-9AC0614EDB47}.Debug|Win32.Build.0 = Debug|Win32
-		{D7D52267-B034-4A57-B201-9AC0614EDB47}.Release|Win32.ActiveCfg = Release|Win32
-		{D7D52267-B034-4A57-B201-9AC0614EDB47}.Release|Win32.Build.0 = Release|Win32
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7C3A6027-A90E-4D02-B8E4-67F0558B7A01}
-	EndGlobalSection
-EndGlobal
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f8655f381f495fa112a05e4b0679533b51bc70d362ad1b1eb015d1f39bd6f1d
+size 1083
